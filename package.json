@@ -1,0 +1,9 @@
+{
+  "name": "@foo/test",
+  "version": "0.0.1",
+  "description": "testing private scoped packages",
+  "main": "index.js",
+  "author": "Pete Gleeson",
+  "license": "MIT",
+  "files": ["./index.js"]
+}
