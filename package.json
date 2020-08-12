@@ -5,7 +5,9 @@
   "main": "index.js",
   "author": "Pete Gleeson",
   "license": "MIT",
-  "files": ["./index.js"],
+  "files": [
+    "./index.js"
+  ],
   "dependencies": {
     "gl-matrix": "^3.1.0",
     "history": "^4.10.1",
@@ -25,5 +27,7 @@
     "typescript": "~3.8.3",
     "ua-parser-js": "^0.7.21",
     "uuid": "^3.4.0"
-  }
+  },
+  "repository": "https://github.com/Chumper/npmrc-cli-example.git",
+  "private": false
 }
